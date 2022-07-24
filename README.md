@@ -1,23 +1,23 @@
-## neoxr-bot
-WhatsApp Bot (Base)
+# Welcome to WOX BOT !
 
-### Database Setup
+bot zwin hhhhhhhhh
 
-Create a heroku account, then go to the AddOns page and add Heroku Postgres.
+# QR CODE _ scan 
 
-### Installation
+[https://replit.com/@mohamedbella200/qr ](https://replit.com/@mohamedbella200/qr)
 
-```
-$ git clone https://github.com/neoxr/neoxr-bot
-```
+#  heroku 
 
-And then go into the folder and type this on your console.
-```
-$ npm i
-$ node . <session_name>
-```
+[https://dashboard.heroku.com](https://dashboard.heroku.com/new?button-url=https://github.com/woxbot/bot-wox&template=https://github.com/woxbot/bot-wox)
+####  1. Heroku
 
-<p align="center"><img src="https://profile-counter.glitch.me/{neoxr}/count.svg" alt="neoxr :: Visitor's Count" /></p>
+If you want to get from heroku, register first and do this steps :
 
-## License
-Copyright (c) 2022 Neoxr . Licensed under the [GNU GPLv3](https://github.com/neoxr/neoxr-bot/blob/master/LICENSE)
+- Go to **add-ons** page
+
+- Search **Heroku Posgress**
+
+- Choose **Hobby Dev** and **ADD**
+ 
+- Done!!
+- [me](https://ibb.co/mT4zpJB)
